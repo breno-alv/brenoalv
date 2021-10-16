@@ -1,6 +1,6 @@
  - 👽 Olá! Me chamo brenoalv.
  - 👨‍🎓 Faço faculdade de Analese e desenvolvimento de sistemas.
- - 🤖 É estou aprendendo Javascript, css, html, git é github. 
+ - 🤖 É atualmente estou aprendendo Javascript, css, html, git é github. 
 
 <div align="center">
   <a href="https://github.com/breno-alv">
